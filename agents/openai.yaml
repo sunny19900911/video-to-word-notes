@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频转 Word 笔记"
+  short_description: "把中英文视频转成中文翻译、结构化笔记和排版校验后的 Word 文档"
+  default_prompt: "Use $video-to-word-notes to turn this video into a polished Chinese Word note."
